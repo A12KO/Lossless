@@ -249,11 +249,11 @@ document.addEventListener('DOMContentLoaded', () => {
 
                 URL.revokeObjectURL(objectUrl);
 
-                if (duration >= 5.0 && duration <= 20.1) {
+                if (duration >= 3.0 && duration <= 30.1) {
                     durationPass = true;
-                    setCheckState(checkDuration, 'success', `Duration is ${duration.toFixed(1)} seconds (5-20s limit)`);
+                    setCheckState(checkDuration, 'success', `Duration is ${duration.toFixed(1)} seconds (3-30s limit)`);
                 } else {
-                    setCheckState(checkDuration, 'error', `Duration is ${duration.toFixed(1)}s. Must be between <strong>5 and 20 seconds</strong>`);
+                    setCheckState(checkDuration, 'error', `Duration is ${duration.toFixed(1)}s. Must be between <strong>3 and 30 seconds</strong>`);
                 }
 
                 if (width < height && aspect <= 0.61) {
