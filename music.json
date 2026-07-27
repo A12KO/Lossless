@@ -1,6 +1,276 @@
 {
   "items": [
     {
+      "song": "Like a Tattoo",
+      "artist": "Sade",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/dakshjasta19-droid-1785181939625-Like_a_Tattoo.flac"
+    },
+    {
+      "song": "Her & the Sea - Clann",
+      "artist": "Clann",
+      "url": "https://lossless.echomusic.fun/Music/sougata-xd-Her_&_the_Sea_Clann.flac"
+    },
+    {
+      "song": "Hymn for the Weekend",
+      "artist": "Coldplay",
+      "url": "https://lossless.echomusic.fun/Music/sougata-xd-coldplay_hymn_for_the_weekend.flac"
+    },
+    {
+      "song": "5 Minutos",
+      "artist": "De La Rose",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/emipvargas-lgtm-1785187460915-5_Minutos_-_De_la_rose.flac"
+    },
+    {
+      "song": "Apology",
+      "artist": "Alesana",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/xenonphyte-1785185432136-02_-_Ambrosia.flac"
+    },
+    {
+      "song": "The Last Three Letters",
+      "artist": "Alesana",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/xenonphyte-1785185471765-06_-_The_Last_Three_Letters.flac"
+    },
+    {
+      "song": "Palgo",
+      "artist": "De La Rose",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/emipvargas-lgtm-1785187312332-Palgo_-_De_la_rose.flac"
+    },
+    {
+      "song": "Cobro",
+      "artist": "De La Rose",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/emipvargas-lgtm-1785187357589-Cobro_-_De_la_rose.flac"
+    },
+    {
+      "song": "CUERPITO DE MODELO (Hosted by 8belial)",
+      "artist": "Xiyo, Fernandezz, dn.aire",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/emipvargas-lgtm-1785179311416-CUERPITO_DE_MODELO__Hosted_by_8belial__-_Xiyo__Fernandezz__dn.aire.flac"
+    },
+    {
+      "song": "WYA (REMIX RED)",
+      "artist": "J Abdiel, Yan Block, iZaak, Jay Wheeler",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/emipvargas-lgtm-1785187570919-WYA_REMIX_RED_-_J_Abdiel__De_la_rose__Yan_Block__Izaak__Jay_Wheeler.flac"
+    },
+    {
+      "song": "LOS FIN DE",
+      "artist": "De La Rose",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/emipvargas-lgtm-1785187411875-LOS_FIN_DE_-_De_la_rose.flac"
+    },
+    {
+      "song": "My Mother How Much I Love Her",
+      "artist": "Muhammad Al Muqit",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/extrekel07-arch-1785183132984-Muhammad_Al_Muqit_-_My_Mother_How_Much_I_Love_Her.flac"
+    },
+    {
+      "song": "Que Habilidad",
+      "artist": "Mora",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/emipvargas-lgtm-1785185706680-Que_Habilidad_-_Mora.flac"
+    },
+    {
+      "song": "Jinguchaa (From \"Thug Life\") (Tamil)",
+      "artist": "A.R. Rahman, Kamal Haasan, Vaishali Samant, Shakthisree Gopalan",
+      "url": "https://lossless.echomusic.fun/Music/rupeshrn-jinguchaa_from_thug_life_tamil_.flac"
+    },
+    {
+      "song": "Sugar Baby (From \"Thug Life\") (Tamil)",
+      "artist": "A.R. Rahman, Alexandra Joy, Shuba, Sarath Santosh, and Siva Ananth",
+      "url": "https://lossless.echomusic.fun/Music/rupeshrn-sugar_baby_from_thug_life_tamil_.flac"
+    },
+    {
+      "song": "Muththa Mazhai (Reprise)",
+      "artist": "A.R. Rahman, Chinmayi, & Siva Ananth",
+      "url": "https://lossless.echomusic.fun/Music/rupeshrn-muththa_mazhai_reprise_.flac"
+    },
+    {
+      "song": "Vinveli Nayaga",
+      "artist": "A.R. Rahman, Shruti Haasan, A. R. Ameen, Karthik Netha",
+      "url": "https://lossless.echomusic.fun/Music/rupeshrn-vinveli_nayaga.flac"
+    },
+    {
+      "song": "Anju Vanna Poove",
+      "artist": "A.R. Rahman, Charulatha Mani, Karthik Netha",
+      "url": "https://lossless.echomusic.fun/Music/rupeshrn-anju_vanna_poove.flac"
+    },
+    {
+      "song": "O Maara",
+      "artist": "A.R. Rahman & Paal Dabba",
+      "url": "https://lossless.echomusic.fun/Music/rupeshrn-o_maara.flac"
+    },
+    {
+      "song": "Engeyo",
+      "artist": "A.R. Rahman, Rakshita Suresh, & Siva Ananth",
+      "url": "https://lossless.echomusic.fun/Music/rupeshrn-engeyo.flac"
+    },
+    {
+      "song": "Anju Vanna Poove (Reprise)",
+      "artist": "A.R. Rahman, Karthik Netha",
+      "url": "https://lossless.echomusic.fun/Music/rupeshrn-anju_vanna_poove_reprise_.flac"
+    },
+    {
+      "song": "Locked out of Heaven",
+      "artist": "Bruno Mars",
+      "url": "https://lossless.echomusic.fun/Music/sougata-xd-locked_out_of_heaven.flac"
+    },
+    {
+      "song": "SOSOSO (Hosted by La Zowi)",
+      "artist": "Xiyo, Fernandezz, Juseph, dn.aire",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/emipvargas-lgtm-1785179560251-SOSOSO__Hosted_by_La_Zowi__-_Xiyo__Fernandezz__Juseph__dn.aire.flac"
+    },
+    {
+      "song": "R\u00c1PIDO",
+      "artist": "Mora",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/emipvargas-lgtm-1785185656274-R_PIDO_-_Mora.flac"
+    },
+    {
+      "song": "Lo Tengo (con Lito Kirino)",
+      "artist": "Dayme y El High, Cazzu, Aleman",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/emipvargas-lgtm-1785186748802-Lo_Tengo_-_Dayme_y_El_High__Cazzu__Alem_n__Lito_Kirino.flac"
+    },
+    {
+      "song": "Kyoto",
+      "artist": "Omar Courtz, De La Rose, Haze",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/emipvargas-lgtm-1785186295456-Kyoto_-_Omar_Courtz__De_la_rose__Haze.flac"
+    },
+    {
+      "song": "HAVANNA",
+      "artist": "Xiyo, Fernandezz, dn.aire, Pipo Beatz",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/emipvargas-lgtm-1785179615696-HAVANNA_-_Xiyo__Fernandezz__dn.aire__Pipo_Beatz.flac"
+    },
+    {
+      "song": "TU GATO",
+      "artist": "Xiyo, Fernandezz, dn.aire",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/emipvargas-lgtm-1785185050171-TU_GATO_-_Xiyo__Fernandezz__dn.aire.flac"
+    },
+    {
+      "song": "Crash Landing",
+      "artist": "NCT 127",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/solosynk-1785180476985-06.______Crash_Landing_.flac"
+    },
+    {
+      "song": "Watcher",
+      "artist": "Aaron Cherof, Minecraft",
+      "url": "https://lossless.echomusic.fun/Music/sougata-xd-Watcher_Minecraft_Aaron_Cherof.flac"
+    },
+    {
+      "song": "Realidad",
+      "artist": "Khea",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/emipvargas-lgtm-1785187016497-Realidad_-_KHEA.flac"
+    },
+    {
+      "song": "COCO LEXUS (con Pipo Beatz)",
+      "artist": "Xiyo, Fernandezz, dn.aire, Yung Beef",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/emipvargas-lgtm-1785179394383-COCO_LEXUS_-_Xiyo__Fernandezz__dn.aire__Yung_Beef__Pipo_Beatz.flac"
+    },
+    {
+      "song": "Chillanjirukkiye (From \"Lubber Pandhu\")",
+      "artist": "Sean Roldan, Pradeep Kumar, Sivaangi Krishnakumar",
+      "url": "https://lossless.echomusic.fun/Music/rupeshrn-chillanjirukkiye_from_lubber_pandhu_.flac"
+    },
+    {
+      "song": "Aasa Orave (From \"Lubber Pandhu\")",
+      "artist": "Sean Roldan",
+      "url": "https://lossless.echomusic.fun/Music/rupeshrn-aasa_orave_from_lubber_pandhu_.flac"
+    },
+    {
+      "song": "Damma Goli",
+      "artist": "Sean Roldan & Gana Settu",
+      "url": "https://lossless.echomusic.fun/Music/rupeshrn-damma_goli.flac"
+    },
+    {
+      "song": "Lubber Pandhu Theme",
+      "artist": "Sean Roldan",
+      "url": "https://lossless.echomusic.fun/Music/rupeshrn-lubber_pandhu_theme.flac"
+    },
+    {
+      "song": "YO NO SOY COSCULLUELA",
+      "artist": "Xiyo, Fernandezz",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/emipvargas-lgtm-1785179677501-YO_NO_SOY_COSCULLUELA_-_Xiyo__Fernandezz__dn.aire.flac"
+    },
+    {
+      "song": "Solitude (Felsmann + Tiley Reinterpretation)",
+      "artist": "M83, Felsmann + Tiley",
+      "url": "https://lossless.echomusic.fun/Music/sougata-xd-Solitude_Felsmann_Tiley_M83.flac"
+    },
+    {
+      "song": "BOBOBOBO",
+      "artist": "Xiyo, Fernandezz, dn.aire",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/emipvargas-lgtm-1785184964676-BOBOBOBO_-_Xiyo__Fernandezz__dn.aire.flac"
+    },
+    {
+      "song": "ROMPE ESE CULO (Hosted by El Mini)",
+      "artist": "Xiyo, Fernandezz, 8belial, dn.aire",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/emipvargas-lgtm-1785184898839-ROMPE_ESE_CULO__Hosted_by_El_Mini__-_Xiyo__Fernandezz__8belial__dn.aire.flac"
+    },
+    {
+      "song": "Desorientada",
+      "artist": "Omar Courtz",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/emipvargas-lgtm-1785186826522-Desorientada_-_Omar_Courtz.flac"
+    },
+    {
+      "song": "Hagamos Lo Que Diga El Coraz\u00f3n",
+      "artist": "Grupo Niche",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/alexmarinos-1785187229514-Hagamos_Lo_Que_Diga_El_Coraz_n_-_Grupo_Niche.flac"
+    },
+    {
+      "song": "Mansion Kuthu (From \"29\")",
+      "artist": "Sean Roldan, Anthony Daasan, Bakkiyam Sankar",
+      "url": "https://lossless.echomusic.fun/Music/rupeshrn-mansion_kuthu_from_29_.flac"
+    },
+    {
+      "song": "Nenjagathi",
+      "artist": "Sean Roldan, Vijaynarain, Mohan Rajan",
+      "url": "https://lossless.echomusic.fun/Music/rupeshrn-nenjagathi.flac"
+    },
+    {
+      "song": "Polladha Aasaigal (From \"29\")",
+      "artist": "Sean Roldan, Sathyaprakash, Saindhavi, Uma Devi",
+      "url": "https://lossless.echomusic.fun/Music/rupeshrn-polladha_aasaigal_from_29_.flac"
+    },
+    {
+      "song": "Poo Paadal (From \"29\")",
+      "artist": "Sean Roldan, Ravi G, Rathna Kumar",
+      "url": "https://lossless.echomusic.fun/Music/rupeshrn-poo_paadal_from_29_.flac"
+    },
+    {
+      "song": "Seelay Seelay",
+      "artist": "Sean Roldan, Chinmayi Sripada & Uma Devi",
+      "url": "https://lossless.echomusic.fun/Music/rupeshrn-seelay_seelay.flac"
+    },
+    {
+      "song": "Seelay Seelay (Karaoke) [From \"29\"]",
+      "artist": "Sean Roldan",
+      "url": "https://lossless.echomusic.fun/Music/rupeshrn-seelay_seelay_karaoke_from_29_.flac"
+    },
+    {
+      "song": "Seelay Seelay (From \"29\")",
+      "artist": "Sean Roldan, Chinmayi, Uma Devi",
+      "url": "https://lossless.echomusic.fun/Music/rupeshrn-seelay_seelay_from_29_.flac"
+    },
+    {
+      "song": "Vaadinen Malare",
+      "artist": "Sean Roldan",
+      "url": "https://lossless.echomusic.fun/Music/rupeshrn-vaadinen_malare.flac"
+    },
+    {
+      "song": "Agora Hills",
+      "artist": "Doja Cat",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/uasaad-1785184430507-Agora_Hills_-_Doja_Cat.flac"
+    },
+    {
+      "song": "F1",
+      "artist": "Hans Zimmer",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/uasaad-1785183874058-Hans_Zimmer_-_F1.flac"
+    },
+    {
+      "song": "Midnight City",
+      "artist": "M83",
+      "url": "https://lossless.echomusic.fun/Music/sougata-xd-Midnight_City_M83.flac"
+    },
+    {
+      "song": "Breakaway",
+      "artist": "Martin Garrix",
+      "url": "https://lossless.echomusic.fun/Music/sougata-xd-Breakaway_Martin_Garrix.flac"
+    },
+    {
       "song": "ASERE (REMIX) (Hosted By Raul Clyde)",
       "artist": "Xiyo, Fernandezz, dn.aire",
       "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/emipvargas-lgtm-1785177204771-ASERE__REMIX___Hosted_By_Raul_Clyde__-_Xiyo__Fernandezz__dn.aire.flac"
