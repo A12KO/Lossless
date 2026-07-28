@@ -1,6 +1,96 @@
 {
   "items": [
     {
+      "song": "Primer Lugar",
+      "artist": "Eladio Carri\u00f3n, Omar Courtz",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/emipvargas-lgtm-1785196483210-Primer_Lugar_-_Eladio_Carrion__Omar_Courtz.flac"
+    },
+    {
+      "song": "Miles",
+      "artist": "Eladio Carrion",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/emipvargas-lgtm-1785195702106-Miles_-_Eladio_Carrion.flac"
+    },
+    {
+      "song": "OJAL\u00c1",
+      "artist": "Maria Becerra",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/emipvargas-lgtm-1785193289284-OJAL__-_Maria_Becerra.flac"
+    },
+    {
+      "song": "La Mafafa",
+      "artist": "Banda Toro",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/yren411-1785196535003-21_-_La_Mafafa_-_Banda_Toro.flac"
+    },
+    {
+      "song": "ADI\u00d3S",
+      "artist": "Maria Becerra",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/emipvargas-lgtm-1785193339259-ADI_S_-_Maria_Becerra.flac"
+    },
+    {
+      "song": "\u5e7d\u970a\u8239 - Ghost Ship",
+      "artist": "KageBow",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/giovaglt09-1785201008613-____-_Ghost_Ship_-_KageBow__Ghost_Ship.flac"
+    },
+    {
+      "song": "NUNCA PASAR\u00c1",
+      "artist": "Maria Becerra",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/emipvargas-lgtm-1785193646433-NUNCA_PASAR__-_Maria_Becerra.flac"
+    },
+    {
+      "song": "MANDAMIENTOS",
+      "artist": "Maria Becerra",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/emipvargas-lgtm-1785193594975-MANDAMIENTOS_-_Maria_Becerra.flac"
+    },
+    {
+      "song": "P\u00cdDELO",
+      "artist": "Maria Becerra",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/emipvargas-lgtm-1785193553890-P_DELO_-_Maria_Becerra.flac"
+    },
+    {
+      "song": "Hoy",
+      "artist": "Eladio Carrion",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/emipvargas-lgtm-1785195648459-Hoy_-_Eladio_Carrion.flac"
+    },
+    {
+      "song": "LA NENA DE ARGENTINA",
+      "artist": "Maria Becerra",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/emipvargas-lgtm-1785193690393-LA_NENA_DE_ARGENTINA_-_Maria_Becerra.flac"
+    },
+    {
+      "song": "DOBLE VIDA",
+      "artist": "Maria Becerra",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/emipvargas-lgtm-1785193456710-DOBLE_VIDA_-_Maria_Becerra.flac"
+    },
+    {
+      "song": "CUANDO HACEMOS EL AMOR",
+      "artist": "Maria Becerra",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/emipvargas-lgtm-1785193231019-CUANDO_HACEMOS_EL_AMOR_-_Maria_Becerra.flac"
+    },
+    {
+      "song": "DESAFIANDO EL DESTINO",
+      "artist": "Maria Becerra",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/emipvargas-lgtm-1785193727570-DESAFIANDO_EL_DESTINO_-_Maria_Becerra.flac"
+    },
+    {
+      "song": "MI BB",
+      "artist": "Lunay, Omar Courtz",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/emipvargas-lgtm-1785196519542-MI_BB_-_Lunay__Omar_Courtz.flac"
+    },
+    {
+      "song": "CUANDO HACEMOS EL AMOR",
+      "artist": "Maria Becerra",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/emipvargas-lgtm-1785193108449-CUANDO_HACEMOS_EL_AMOR_-_Maria_Becerra.flac"
+    },
+    {
+      "song": "La Noche Que Murio Chicago",
+      "artist": "Banda Toro",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/yren411-1785196735371-La_Noche_Que_Murio_Chicago_-_Banda_Toro.flac"
+    },
+    {
+      "song": "HASTA QUE LA MUERTE NOS SEPARE",
+      "artist": "Maria Becerra",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/emipvargas-lgtm-1785193399774-HASTA_QUE_LA_MUERTE_NOS_SEPARE_-_Maria_Becerra.flac"
+    },
+    {
       "song": "Like a Tattoo",
       "artist": "Sade",
       "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/dakshjasta19-droid-1785181939625-Like_a_Tattoo.flac"
