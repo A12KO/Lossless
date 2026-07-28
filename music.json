@@ -1,6 +1,51 @@
 {
   "items": [
     {
+      "song": "Kudukku",
+      "artist": "Vineeth Sreenivasan",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/hopperak47-hash-1785239967009-Kudukku_-_Vineeth_Sreenivasan.flac"
+    },
+    {
+      "song": "Raheemun Aleemun",
+      "artist": "Sushin Shyam, Hida Chokkad, Imam Majboor, Sinan Edakkara and Mithulesh",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/hopperak47-hash-1785239775265-Raheemun_Aleemun_-_Sushin_Shyam__Hida_Chokkad__Imam_Majboor__Sinan_Edakkara__Mithulesh___Sameer_Binsi.flac"
+    },
+    {
+      "song": "Thee Minnal",
+      "artist": "Marthyan and Sushin Shyam",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/hopperak47-hash-1785239258470-Thee_Minnal_-_Marthyan___Sushin_Shyam.flac"
+    },
+    {
+      "song": "Kaana Dooram",
+      "artist": "Prashant Pillai, Preeti Pillai and Anu Elizabeth Jose",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/hopperak47-hash-1785239373028-Kaana_Dooram_-_Preeti_Pillai.flac"
+    },
+    {
+      "song": "O Manuja",
+      "artist": "Prashant Pillai, Sithara Krishnakumar",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/hopperak47-hash-1785239316418-O_Manuja__From_Djinn___-_Sithara_Krishnakumar___Prashant_Pillai.flac"
+    },
+    {
+      "song": "Mel Mel",
+      "artist": "Gopi Sundar, Naresh Iyer, Anna Katharina Valayil and Rafeeq Ahamed",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/hopperak47-hash-1785239696532-Mel_Mel_-_Gopi_Sundar__Naresh_Iyer___Anna_Katharina_Valayil.flac"
+    },
+    {
+      "song": "Idukki",
+      "artist": "Bijibal",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/hopperak47-hash-1785239573288-Idukki_-_Bijibal.flac"
+    },
+    {
+      "song": "Pookkal Panineer",
+      "artist": "Jerry Amaldev, K.J. Yesudas and Vani Jairam",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/hopperak47-hash-1785240231543-Pookkal_Panineer_-_Jerry_Amaldev__K._J._Yesudas___Vani_Jairam.flac"
+    },
+    {
+      "song": "Pavizha Mazha",
+      "artist": "K S Harisankar",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/hopperak47-hash-1785239864828-Pavizha_Mazha__From_Athiran___-_K_S_Harishankar__P._S._Jayhari___Vinayak_Sasikumar.flac"
+    },
+    {
       "song": "Rangaa Re Hindi",
       "artist": "Sunidhi Chauhan, Amit Trivedi",
       "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/hexagonal699-1785233662089-Rangaa_Re_Hindi_-_Sunidhi_Chauhan___Amit_Trivedi.flac"
