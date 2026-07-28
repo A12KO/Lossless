@@ -1,6 +1,76 @@
 {
   "items": [
     {
+      "song": "A La Cumbiamba",
+      "artist": "Los \u00c1ngeles Azules",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/yren411-1785252907522-A_La_Cumbiamba_-_Los__ngeles_Azules.flac"
+    },
+    {
+      "song": "Azhagho Azhaghu",
+      "artist": "Yuvan Shankar Raja, Naresh Iyer",
+      "url": "https://lossless.echomusic.fun/Music/rupeshrn-azhagho_azhaghu.flac"
+    },
+    {
+      "song": "Oru Kannil Vaegam",
+      "artist": "Yuvan Shankar Raja, K.G. Ranjith, Naveen Madhav, Suchitra",
+      "url": "https://lossless.echomusic.fun/Music/rupeshrn-oru_kannil_vaegam.flac"
+    },
+    {
+      "song": "Poikkaal Kuthirai",
+      "artist": "Yuvan Shankar Raja",
+      "url": "https://lossless.echomusic.fun/Music/rupeshrn-poikkaal_kuthirai.flac"
+    },
+    {
+      "song": "Rajaavin Thoattathil",
+      "artist": "Yuvan Shankar Raja, K.G. Ranjith, Rita",
+      "url": "https://lossless.echomusic.fun/Music/rupeshrn-rajaavin_thoattathil.flac"
+    },
+    {
+      "song": "Vellai Maiyil",
+      "artist": "Yuvan Shankar Raja, Udit Narayan, Shweta Mohan",
+      "url": "https://lossless.echomusic.fun/Music/rupeshrn-vellai_maiyil.flac"
+    },
+    {
+      "song": "Kadhal Kappal",
+      "artist": "Santhosh Narayanan, Muthamil",
+      "url": "https://lossless.echomusic.fun/Music/rupeshrn-kadhal_kappal.flac"
+    },
+    {
+      "song": "Bhoomi Bhoomi",
+      "artist": "A.R. Rahman, Shakthisree Gopalan",
+      "url": "https://lossless.echomusic.fun/Music/rupeshrn-bhoomi_bhoomi.flac"
+    },
+    {
+      "song": "Hayati",
+      "artist": "A.R. Rahman, Mayssa Karaa, thoughtsfornow",
+      "url": "https://lossless.echomusic.fun/Music/rupeshrn-hayati.flac"
+    },
+    {
+      "song": "Kalla Kalavaani",
+      "artist": "A.R. Rahman, Shakthisree Gopalan, Lady Kash",
+      "url": "https://lossless.echomusic.fun/Music/rupeshrn-kalla_kalavaani.flac"
+    },
+    {
+      "song": "Mazhai Kuruvi",
+      "artist": "A.R. Rahman, Vairamuthu",
+      "url": "https://lossless.echomusic.fun/Music/rupeshrn-mazhai_kuruvi.flac"
+    },
+    {
+      "song": "Sevandhu Pochu Nenju",
+      "artist": "A.R. Rahman, Sunitha Sarathy, Arjun Chandy, Sathya Prakash",
+      "url": "https://lossless.echomusic.fun/Music/rupeshrn-sevandhu_pochu_nenju.flac"
+    },
+    {
+      "song": "Sevandhu Pochu Nenju",
+      "artist": "A.R. Rahman, Sunitha Sarathy, Arjun Chandy, Sathya Prakash",
+      "url": "https://lossless.echomusic.fun/Music/rupeshrn-sevandhu_pochu_nenju.flac"
+    },
+    {
+      "song": "Rain",
+      "artist": "Adri\u00e1n Berenguer",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/kendo1606-1785254782764-Rain_-_Adri_n_Berenguer.flac"
+    },
+    {
       "song": "Kudukku",
       "artist": "Vineeth Sreenivasan",
       "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/hopperak47-hash-1785239967009-Kudukku_-_Vineeth_Sreenivasan.flac"
