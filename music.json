@@ -1,6 +1,211 @@
 {
   "items": [
     {
+      "song": "I Hate Everything About You",
+      "artist": "Three Days Grace",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/paulo1403-1785352845904-03._I_Hate_Everything_About_You.flac"
+    },
+    {
+      "song": "Ovvundraai Thirudugiraai",
+      "artist": "Karthik; Bhavya Pandit; D. Imman; Vairamuthu",
+      "url": "https://lossless.echomusic.fun/Music/rupeshrn-ovvundraai_thirudugiraai.flac"
+    },
+    {
+      "song": "Oru Rosa",
+      "artist": "Pooja AV; Anthony Daasan; D. Imman",
+      "url": "https://lossless.echomusic.fun/Music/rupeshrn-oru_rosa.flac"
+    },
+    {
+      "song": "Oruthi Maelae",
+      "artist": "Abhay Jodhpurkar; El F\u00e9 Choir; D. Imman; Madhan Karky",
+      "url": "https://lossless.echomusic.fun/Music/rupeshrn-oruthi_maelae.flac"
+    },
+    {
+      "song": "Sangimangi",
+      "artist": "Malavika; Nivas; Tha Mystro; D. Imman; Vairamuthu",
+      "url": "https://lossless.echomusic.fun/Music/rupeshrn-sangimangi.flac"
+    },
+    {
+      "song": "Engae Ponaai",
+      "artist": "S. P. Balasubrahmanyam; D. Imman; Madhan Karky",
+      "url": "https://lossless.echomusic.fun/Music/rupeshrn-engae_ponaai.flac"
+    },
+    {
+      "song": "Naetru Naan",
+      "artist": "Sathyaprakash; D. Imman; Madhan Karky",
+      "url": "https://lossless.echomusic.fun/Music/rupeshrn-naetru_naan.flac"
+    },
+    {
+      "song": "Ovvundraai Thirudugiraai (Karaoke)",
+      "artist": "D. Imman",
+      "url": "https://lossless.echomusic.fun/Music/rupeshrn-ovvundraai_thirudugiraai_karaoke_.flac"
+    },
+    {
+      "song": "Oruthi Maelae (Karaoke)",
+      "artist": "D. Imman",
+      "url": "https://lossless.echomusic.fun/Music/rupeshrn-oruthi_maelae_karaoke_.flac"
+    },
+    {
+      "song": "Juego",
+      "artist": "Nesty La Mente Maestra, Yandel, Omar Courtz",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/emipvargas-lgtm-1785360639696-Juego_-_Nesty_La_Mente_Maestra__Yandel__Omar_Courtz.flac"
+    },
+    {
+      "song": "Shampoo de Coco",
+      "artist": "Anuel AA",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/emipvargas-lgtm-1785351212750-Shampoo_de_Coco_-_Anuel_AA.flac"
+    },
+    {
+      "song": "LOKENECESITAS",
+      "artist": "Saiko, Omar Courtz",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/emipvargas-lgtm-1785360829905-LOKENECESITAS_-_SAIKO__Omar_Courtz.flac"
+    },
+    {
+      "song": "At Peace",
+      "artist": "Karan Aujla, Ikky",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/p08g07-hires-1785351592667-1_-_At_Peace_-_Karan_Aujla.flac"
+    },
+    {
+      "song": "ICONIC BY MISTAKE",
+      "artist": "LE SSERAFIM, ILLIT, KATSEYE",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/dinpeace-1785360047085-ICONIC_BY_MISTAKE_-_LE_SSERAFIM__ILLIT__KATSEYE.flac"
+    },
+    {
+      "song": "MARINA",
+      "artist": "KENDAYA, Omar Courtz",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/emipvargas-lgtm-1785360672774-MARINA_-_Kendaya__Omar_Courtz.flac"
+    },
+    {
+      "song": "ALMAS GEMELAS",
+      "artist": "Myke Towers",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/emipvargas-lgtm-1785359952712-ALMAS_GEMELAS_-_Myke_Towers.flac"
+    },
+    {
+      "song": "Inocente",
+      "artist": "Myke Towers",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/emipvargas-lgtm-1785359987775-Inocente_-_Myke_Towers.flac"
+    },
+    {
+      "song": "Vaa Senthaazhini",
+      "artist": "Justin Prabhakaran; Sid Sriram",
+      "url": "https://lossless.echomusic.fun/Music/rupeshrn-vaa_senthaazhini.flac"
+    },
+    {
+      "song": "Mudhal Kaadhal",
+      "artist": "Justin Prabhakaran; Yuvan Shankar Raja",
+      "url": "https://lossless.echomusic.fun/Music/rupeshrn-mudhal_kaadhal.flac"
+    },
+    {
+      "song": "Mutta Cutie",
+      "artist": "Anthony Daasan",
+      "url": "https://lossless.echomusic.fun/Music/rupeshrn-mutta_cutie.flac"
+    },
+    {
+      "song": "Ullukulla Theekaadu",
+      "artist": "Romy; Padmaja Srinivasan",
+      "url": "https://lossless.echomusic.fun/Music/rupeshrn-ullukulla_theekaadu.flac"
+    },
+    {
+      "song": "Multiverse of Adiyae",
+      "artist": "Justin Prabhakaran",
+      "url": "https://lossless.echomusic.fun/Music/rupeshrn-multiverse_of_adiyae.flac"
+    },
+    {
+      "song": "Kaadhale Dhinam Dhinam",
+      "artist": "M.S Krsna; Kapil Kapilan",
+      "url": "https://lossless.echomusic.fun/Music/rupeshrn-kaadhale_dhinam_dhinam.flac"
+    },
+    {
+      "song": "EXPERIMENTO",
+      "artist": "Myke Towers",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/emipvargas-lgtm-1785359913100-EXPERIMENTO_-_Myke_Towers.flac"
+    },
+    {
+      "song": "Piriyathiru (From \"Irugapatru\")",
+      "artist": "Justin Prabhakaran; Yuvan Shankar Raja; Karthik Netha",
+      "url": "https://lossless.echomusic.fun/Music/rupeshrn-piriyathiru_from_irugapatru_.flac"
+    },
+    {
+      "song": "Maya Maya (From \"Irugapatru\")",
+      "artist": "Justin Prabhakaran; Karthik Netha; Christopher Stanley; Padmapriya Raghavan",
+      "url": "https://lossless.echomusic.fun/Music/rupeshrn-maya_maya_from_irugapatru_.flac"
+    },
+    {
+      "song": "Theerndhu Pona",
+      "artist": "Justin Prabhakaran; Sathyaprakash",
+      "url": "https://lossless.echomusic.fun/Music/rupeshrn-theerndhu_pona.flac"
+    },
+    {
+      "song": "You And Me",
+      "artist": "Justin Prabhakaran; MALIII",
+      "url": "https://lossless.echomusic.fun/Music/rupeshrn-you_and_me.flac"
+    },
+    {
+      "song": "Velichandhaan",
+      "artist": "Justin Prabhakaran; Padmaja Sreenivasan",
+      "url": "https://lossless.echomusic.fun/Music/rupeshrn-velichandhaan.flac"
+    },
+    {
+      "song": "Life of Mano",
+      "artist": "Justin Prabhakaran",
+      "url": "https://lossless.echomusic.fun/Music/rupeshrn-life_of_mano.flac"
+    },
+    {
+      "song": "Yeno Yeno Manadhiley",
+      "artist": "Justin Prabhakaran; Sathyaprakash; Chinmayi Sripada",
+      "url": "https://lossless.echomusic.fun/Music/rupeshrn-yeno_yeno_manadhiley.flac"
+    },
+    {
+      "song": "The Gap",
+      "artist": "Justin Prabhakaran",
+      "url": "https://lossless.echomusic.fun/Music/rupeshrn-the_gap.flac"
+    },
+    {
+      "song": "FAYA",
+      "artist": "Omar Courtz, BASSYY, Derek Santana",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/emipvargas-lgtm-1785360785843-FAYA_-_Omar_Courtz__Bassyy__Derek_Santana.flac"
+    },
+    {
+      "song": "5'3",
+      "artist": "Yan Block",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/emipvargas-lgtm-1785356963690-5_3_-_Yan_Block.flac"
+    },
+    {
+      "song": "Chithirai Nela",
+      "artist": "A.R. Rahman, Vijay Yesudas",
+      "url": "https://lossless.echomusic.fun/Music/rupeshrn-chithirai_nela.flac"
+    },
+    {
+      "song": "Engeyum Eppothum (From \"Polladhavan\")",
+      "artist": "G. V. Prakash Kumar, Yogi. B, Kaviyarasu Kannadasan, Yugabharathi, S. P. Balasubrahmanyam, and Sunitha Sarathy",
+      "url": "https://lossless.echomusic.fun/Music/rupeshrn-engeyum_eppothum_from_polladhavan_.flac"
+    },
+    {
+      "song": "Minnalgal Koothadum (From \"Polladhavan\")",
+      "artist": "Karthik, Nakkhul, & Bombay Jeyashree",
+      "url": "https://lossless.echomusic.fun/Music/rupeshrn-minnalgal_koothadum_from_polladhavan_.flac"
+    },
+    {
+      "song": "Moongil Thottam",
+      "artist": "A.R. Rahman, Abhay Jodhpurkar, Harini, Vairamuthu",
+      "url": "https://lossless.echomusic.fun/Music/rupeshrn-moongil_thottam.flac"
+    },
+    {
+      "song": "Neeye Sol (From \"Polladhavan\")",
+      "artist": "G. V. Prakash Kumar, Vairamuthu, Benny Dayal, Sunitha Sarathy",
+      "url": "https://lossless.echomusic.fun/Music/rupeshrn-neeye_sol_from_polladhavan_.flac"
+    },
+    {
+      "song": "Padichi Parthen (From \"Polladhavan\")",
+      "artist": "Kabilan, G. V. Prakash Kumar, Shankar Mahadevan",
+      "url": "https://lossless.echomusic.fun/Music/rupeshrn-padichi_parthen_from_polladhavan_.flac"
+    },
+    {
+      "song": "MARGIELA",
+      "artist": "Omar Courtz",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/emipvargas-lgtm-1785360517018-MARGIELA_-_Omar_Courtz.flac"
+    },
+    {
       "song": "Triste Verano",
       "artist": "Eladio Carri\u00f3n, Anuel AA",
       "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/emipvargas-lgtm-1785349167476-Triste_Verano_-_Eladio_Carrion__Anuel_AA.flac"
