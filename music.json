@@ -1,6 +1,161 @@
 {
   "items": [
     {
+      "song": "peekaboo (con AzChike)",
+      "artist": "Kendrick Lamar",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/lankrest-1785303899882-Kendrick_Lamar_-_peekaboo.flac"
+    },
+    {
+      "song": "Sara Sara Saara Kathu",
+      "artist": "Chinmayi",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/davidisrael007-1785308851890-02_Sara_Sara_Saara_Kathu.flac"
+    },
+    {
+      "song": "GONE, GONE / THANK YOU",
+      "artist": "Tyler, The Creator",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/todaysproject23-1785304664578-10_GONE__GONE_-_THANK_YOU.flac"
+    },
+    {
+      "song": "Mine",
+      "artist": "Bazzi",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/lankrest-1785304985142-Bazzi_-_Mine.flac"
+    },
+    {
+      "song": "A BOY IS A GUN*",
+      "artist": "Tyler, The Creator",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/eleveno11o-1785309902402-07_A_BOY_IS_A_GUN.flac"
+    },
+    {
+      "song": "ARE WE STILL FRIENDS?",
+      "artist": "Tyler, The Creator",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/todaysproject23-1785304778897-12_ARE_WE_STILL_FRIENDS-.flac"
+    },
+    {
+      "song": "NEW MAGIC WAND",
+      "artist": "Tyler, The Creator",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/eleveno11o-1785309708014-06_NEW_MAGIC_WAND__feat._Jerrod_Carmichael__Santigold__Jessy_Wilson_.flac"
+    },
+    {
+      "song": "Bad Habit",
+      "artist": "Steve Lacy",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/uasaad-1785311450436-Bad_Habit_-_Steve_Lacy.flac"
+    },
+    {
+      "song": "Kanwal",
+      "artist": "Afusic, Hasan Raheem, AliSoomroMusic",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/debasiishray-dxr-1785311568369-1-AFUSIC-Kanwal-HWT7AB.flac"
+    },
+    {
+      "song": "Not Enough",
+      "artist": "Afusic, AliSoomroMusic",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/debasiishray-dxr-1785311515290-1-AFUSIC-Not-Enough-0YTH95.flac"
+    },
+    {
+      "song": "Can't Feel My Face",
+      "artist": "The Weeknd",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/lankrest-1785304440857-The_Weeknd_-_Can_t_Feel_My_Face.flac"
+    },
+    {
+      "song": "Maand",
+      "artist": "Bayaan, Hasan Raheem, & Rovalio",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/debasiishray-dxr-1785312135583-3-Bayaan-Maand-A9ODKQ.flac"
+    },
+    {
+      "song": "Purple Lamborghini",
+      "artist": "Skrillex, Rick Ross",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/lankrest-1785305765276-Skrillex_-_Purple_Lamborghini.flac"
+    },
+    {
+      "song": "Aria Math",
+      "artist": "C418",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/uasaad-1785311356043-Aria_Math_-_C418.flac"
+    },
+    {
+      "song": "Jhol",
+      "artist": "Maanu, Annural Khalid",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/debasiishray-dxr-1785310612139-1-Maanu-Jhol-KTF9OQ.flac"
+    },
+    {
+      "song": "TAUBA",
+      "artist": "Shibu",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/debasiishray-dxr-1785312321990-1-Shibu-TAUBA-K6O34L.flac"
+    },
+    {
+      "song": "EARFQUAKE",
+      "artist": "Tyler, The Creator",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/eleveno11o-1785309517992-02_EARFQUAKE__feat._Playboi_Carti__Charlie_Wilson___Jessy_Wilson_.flac"
+    },
+    {
+      "song": "I Really Want to Stay at Your House",
+      "artist": "Rosa Walton, Hallie Coggins",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/lankrest-1785304852301-Rosa_Walton_-_I_Really_Want_to_Stay_at_Your_House.flac"
+    },
+    {
+      "song": "Swimming Pools (Drank)",
+      "artist": "Kendrick Lamar",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/lankrest-1785303960002-Kendrick_Lamar_-_Swimming_Pools__Drank___Extended_Version_.flac"
+    },
+    {
+      "song": "Be My Baby",
+      "artist": "The Ronettes",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/uasaad-1785311575797-Be_My_Baby_-_The_Ronettes.flac"
+    },
+    {
+      "song": "The Hills",
+      "artist": "The Weeknd",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/lankrest-1785304304556-The_Weeknd_-_The_Hills.flac"
+    },
+    {
+      "song": "Sang Hoon Tere",
+      "artist": "Pritam, Nikhil D'Souza, Sayeed Quadri",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/tushar-mangraj-1785303611303-Sang_Hoon_Tere_-_Pritam__Nikhil_D_souza__Sayeed_Quadri.flac"
+    },
+    {
+      "song": "Heer",
+      "artist": "Afusic, AliSoomroMusic",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/debasiishray-dxr-1785311862703-1-AFUSIC-Heer-K4FYAC.flac"
+    },
+    {
+      "song": "Long Distance Love | Coke Studio Bangla",
+      "artist": "Ankan Kumar, Modernotaku, Shuvendu Das Shuvo",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/debasiishray-dxr-1785312514628-Long_distance_love___Coke_Studio_.flac"
+    },
+    {
+      "song": "Ruffneck (Full Flex)",
+      "artist": "Skrillex",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/lankrest-1785305963735-Skrillex_-_Ruffneck__Full_Flex_.flac"
+    },
+    {
+      "song": "SANAM",
+      "artist": "Shibu & Pranavi",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/debasiishray-dxr-1785312258788-1-Shibu-SANAM-B33E3K.flac"
+    },
+    {
+      "song": "Apocalypse",
+      "artist": "Cigarettes After Sex",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/uasaad-1785311167932-Apocalypse_-_Cigarettes_After_Sex.flac"
+    },
+    {
+      "song": "Try It Out (with Alvin Risk) [Neon Mix] (con Alvin Risk)",
+      "artist": "Skrillex",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/lankrest-1785305870105-Skrillex_-_Try_It_Out__with_Alvin_Risk___Neon_Mix_.flac"
+    },
+    {
+      "song": "This Is America",
+      "artist": "Childish Gambino",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/lankrest-1785305342946-Childish_Gambino_-_This_Is_America.flac"
+    },
+    {
+      "song": "DtMF",
+      "artist": "Bad Bunny",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/lankrest-1785306136453-Bad_Bunny_-_DtMF.flac"
+    },
+    {
+      "song": "tv off (con Lefty Gunplay)",
+      "artist": "Kendrick Lamar",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/lankrest-1785303809326-Kendrick_Lamar_-_tv_off.flac"
+    },
+    {
       "song": "Mere Ho Tum",
       "artist": "Prabhakar Raj",
       "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/pink-shawty-1785302141770-Mere_Ho_Tum.flac"
