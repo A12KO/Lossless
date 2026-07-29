@@ -1,6 +1,131 @@
 {
   "items": [
     {
+      "song": "Mere Ho Tum",
+      "artist": "Prabhakar Raj",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/pink-shawty-1785302141770-Mere_Ho_Tum.flac"
+    },
+    {
+      "song": "Laaree Chootee",
+      "artist": "Call",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/pink-shawty-1785302198091-Laaree_Chootee.flac"
+    },
+    {
+      "song": "Knock Knock",
+      "artist": "KR$NA, Phenom",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/jooker-09-1785303148391-Knock_Knock_-_KR_NA__Phenom.flac"
+    },
+    {
+      "song": "Ik Kudi",
+      "artist": "wolf.cryman, Arpit Bala",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/pink-shawty-1785299268691-videoplayback.flac"
+    },
+    {
+      "song": "Baatein Karo",
+      "artist": "Vayu",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/pink-shawty-1785302440707-Baatein_Karo.flac"
+    },
+    {
+      "song": "Kabhi Kabhi",
+      "artist": "AUR",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/pink-shawty-1785301927580-Kabhi_Kabhi.flac"
+    },
+    {
+      "song": "Starboy (con Daft Punk)",
+      "artist": "The Weeknd",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/lankrest-1785303373284-The_Weeknd_-_Starboy.flac"
+    },
+    {
+      "song": "TATAMI",
+      "artist": "JC Reyes",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/emipvargas-lgtm-1785291776808-TATAMI_-_JC_Reyes.flac"
+    },
+    {
+      "song": "MOONLIGHT",
+      "artist": "Omar Courtz, Eladio Carri\u00f3n",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/emipvargas-lgtm-1785292018932-MOONLIGHT_-_Omar_Courtz__Eladio_Carrion.flac"
+    },
+    {
+      "song": "Main Rang Sharbaton Ka",
+      "artist": "Release - Topic",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/pink-shawty-1785302355136-Main_Rang_Sharbaton_Ka.flac"
+    },
+    {
+      "song": "Tose Naina Lage",
+      "artist": "Shilpa Rao",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/pink-shawty-1785302062111-Tose_Naina_Lage.flac"
+    },
+    {
+      "song": "Maine Payal Hai Chhankai",
+      "artist": "Falguni Pathak",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/jooker-09-1785302337218-Maine_Payal_Hai_Chhankai.flac"
+    },
+    {
+      "song": "Inaam",
+      "artist": "Anuv Jain",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/pink-shawty-1785299910466-Anuv_Jain_-_INAAM__Official_Lyrical_Video__-__320_Kbps_.flac"
+    },
+    {
+      "song": "Nanchaku",
+      "artist": "Seedhe Maut, MC STAN",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/jooker-09-1785302233733-Nanchaku.flac"
+    },
+    {
+      "song": "WO OH OH",
+      "artist": "Omar Courtz, ROA",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/emipvargas-lgtm-1785291894757-WO_OH_OH_-_Omar_Courtz__Roa.flac"
+    },
+    {
+      "song": "Tujhe Sochta Hoon",
+      "artist": "Pritam, KK, Sayeed Quadri",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/tushar-mangraj-1785301937286-Tujhe_Sochta_Hoon_-_Pritam__KK__Sayeed_Quadri.flac"
+    },
+    {
+      "song": "Save Your Tears",
+      "artist": "The Weeknd",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/lankrest-1785303507269-The_Weeknd_-_Save_Your_Tears.flac"
+    },
+    {
+      "song": "Paaro",
+      "artist": "Aditya Rikhari",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/pink-shawty-1785302282087-Paaro.flac"
+    },
+    {
+      "song": "POR SI MA\u00d1ANA NO ESTOY",
+      "artist": "Omar Courtz",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/emipvargas-lgtm-1785292055879-POR_SI_MA_ANA_NO_ESTOY_-_Omar_Courtz.flac"
+    },
+    {
+      "song": "WHAT U NEED? (SexPlaylist 2)",
+      "artist": "Omar Courtz, Myke Towers",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/emipvargas-lgtm-1785291842806-WHAT_U_NEED__SexPlaylist_2__-_Omar_Courtz__Myke_Towers.flac"
+    },
+    {
+      "song": "Ranjheya Ve",
+      "artist": "Zain Zohaib",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/pink-shawty-1785301848540-Ranjheya_Ve.flac"
+    },
+    {
+      "song": "SKY",
+      "artist": "Omar Courtz",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/emipvargas-lgtm-1785291977321-SKY_-_Omar_Courtz.flac"
+    },
+    {
+      "song": "Paaro",
+      "artist": "Aditya Rikhari",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/pink-shawty-1785302254701-Laaree_Chootee.flac"
+    },
+    {
+      "song": "Dhan Dhan Bhaag",
+      "artist": "Varun Mishra, Navdeep Panchal Shubh, Mohit Lalwani",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/pink-shawty-1785302011247-Dhan_Dhan_Bhaag.flac"
+    },
+    {
+      "song": "Rakhlo Tum Chupaake",
+      "artist": "Arpit Bala, Adil",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/pink-shawty-1785300018648-Arpit_Bala___Adil_-_Rakhlo_Tum_Chupaake_-__320_Kbps_.flac"
+    },
+    {
       "song": "VAMOaCOCHI",
       "artist": "Omar Courtz",
       "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/emipvargas-lgtm-1785284399887-VAMOaCOCHI_-_Omar_Courtz.flac"
