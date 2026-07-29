@@ -1,6 +1,166 @@
 {
   "items": [
     {
+      "song": "Tot Musica",
+      "artist": "Ado",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/gopiravindran-1785314878777-Ado_-_Tot_Musica.flac"
+    },
+    {
+      "song": "Sohena Jatona",
+      "artist": "Arfin Rumey",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/debasiishray-dxr-1785312776223-7-Arfin-Rumey-Sohena-Jatona-33PKXO.flac"
+    },
+    {
+      "song": "\u65b0\u6642\u4ee3 (\u30a6\u30bf from ONE PIECE FILM RED) - New Genesis (UTA from ONE PIECE FILM RED)",
+      "artist": "Ado",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/gopiravindran-1785314978619-Ado_-_New_Genesis.flac"
+    },
+    {
+      "song": "The Murderer",
+      "artist": "Alesana",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/xenonphyte-1785315452430-04_-_The_Murderer.flac"
+    },
+    {
+      "song": "Departure Lane",
+      "artist": "Talha Anjum, Umair",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/debasiishray-dxr-1785313169513-7-Talha-Anjum-Departure-Lane-D6KRJP.flac"
+    },
+    {
+      "song": "Konjam Konjam",
+      "artist": "Vijay Prakash",
+      "url": "https://lossless.echomusic.fun/Music/rupeshrn-konjam_konjam.flac"
+    },
+    {
+      "song": "Veesum Velichathile",
+      "artist": "Karthik, G. Sahithi",
+      "url": "https://lossless.echomusic.fun/Music/rupeshrn-veesum_velichathile.flac"
+    },
+    {
+      "song": "\u30eb\u30eb - RuLe",
+      "artist": "Ado",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/gopiravindran-1785314941550-Ado_-_RuLe.flac"
+    },
+    {
+      "song": "Dhenam Dhenam",
+      "artist": "Devi Sri Prasad, Benny Dayal, Baba Sehgal",
+      "url": "https://lossless.echomusic.fun/Music/rupeshrn-dhenam_dhenam.flac"
+    },
+    {
+      "song": "Kaalangathale",
+      "artist": "Devi Sri Prasad, Karthik",
+      "url": "https://lossless.echomusic.fun/Music/rupeshrn-kaalangathale.flac"
+    },
+    {
+      "song": "Orey Oru",
+      "artist": "Devi Sri Prasad, Tipu, Harini",
+      "url": "https://lossless.echomusic.fun/Music/rupeshrn-orey_oru.flac"
+    },
+    {
+      "song": "Pudikale Pudikudhu",
+      "artist": "Devi Sri Prasad, Mukesh, Suchitra, Viveka",
+      "url": "https://lossless.echomusic.fun/Music/rupeshrn-pudikale_pudikudhu.flac"
+    },
+    {
+      "song": "Yenna Solla Pore",
+      "artist": "Devi Sri Prasad, M.L.R. Karthikeyan, Hari",
+      "url": "https://lossless.echomusic.fun/Music/rupeshrn-yenna_solla_pore.flac"
+    },
+    {
+      "song": "unravel",
+      "artist": "Ado",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/gopiravindran-1785314612736-Ado_-_unravel.flac"
+    },
+    {
+      "song": "Baarish Mein Phir",
+      "artist": "Saahel",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/debasiishray-dxr-1785313002949-1-Saahel-Baarish-Mein-Phir-8Y1CB8.flac"
+    },
+    {
+      "song": "Curse Of The Virgin Canvas",
+      "artist": "Alesana - Topic",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/xenonphyte-1785315206727-01_-_Curse_Of_The_Virgin_Canvas.flac"
+    },
+    {
+      "song": "Entammede Jimikki Kammal",
+      "artist": "Shaan Rahman, Vineeth Sreenivasan, Renjith Unni",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/hopperak47-hash-1785317300563-Entammede_Jimikki_Kammal_-_Shaan_Rahman__Vineeth_Sreenivasan___Renjith_Unni.flac"
+    },
+    {
+      "song": "\u5531 - Show",
+      "artist": "Ado",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/gopiravindran-1785314766852-Ado_-_Show.flac"
+    },
+    {
+      "song": "MIRROR",
+      "artist": "Ado",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/gopiravindran-1785315061870-Ado_-_MIRROR.flac"
+    },
+    {
+      "song": "\u7dba\u7f85 - KIRA",
+      "artist": "Ado",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/gopiravindran-1785314736129-Ado_-_KIRA.flac"
+    },
+    {
+      "song": "Chuye Dekho Amay",
+      "artist": "Tanveer Evan",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/debasiishray-dxr-1785313803344-1-Tanveer-Evan-Chuye-Dekho-Amay-REWJ6Q.flac"
+    },
+    {
+      "song": "\u30a2\u30a4\u30fb\u30a2\u30a4\u30fb\u30a2 - AiAiA",
+      "artist": "Ado",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/gopiravindran-1785314458638-Ado_-_AiAiA.flac"
+    },
+    {
+      "song": "\u30d3\u30d0\u30ea\u30a6\u30e0 - Vivarium",
+      "artist": "Ado",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/gopiravindran-1785314547001-Ado_-_Vivarium.flac"
+    },
+    {
+      "song": "Clocks",
+      "artist": "Coldplay",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/digaraco1205-1785319992366-Coldplay_-_Clocks.flac"
+    },
+    {
+      "song": "The Artist",
+      "artist": "Alesana",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/xenonphyte-1785315275616-02_-_The_Artist.flac"
+    },
+    {
+      "song": "\u30ec\u30c7\u30a3\u30e1\u30a4\u30c9 - Readymade",
+      "artist": "Ado",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/gopiravindran-1785314703055-Ado_-_______.flac"
+    },
+    {
+      "song": "Jeevamshamayi",
+      "artist": "Kailas Menon, Harisankar KS and Shreya Ghoshal",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/hopperak47-hash-1785317372312-Jeevamshamayi_-_K._S._Harisankar___Shreya_Ghoshal.flac"
+    },
+    {
+      "song": "kitne waade",
+      "artist": "Aryan Katoch",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/debasiishray-dxr-1785313606269-1-Aryan-Katoch-kitne-waade-NZYBQQ.flac"
+    },
+    {
+      "song": "\u53ef\u611b\u304f\u3066\u3054\u3081\u3093 - Kawaikute Gomen",
+      "artist": "Ado",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/gopiravindran-1785315025650-Ado_-_Kawaikute_Gomen.flac"
+    },
+    {
+      "song": "A Lunatic\u2019s Lament",
+      "artist": "Alesana",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/xenonphyte-1785315371188-03_-_A_Lunatic_s_Lament.flac"
+    },
+    {
+      "song": "Roshni",
+      "artist": "Alymdr, AliSoomroMusic",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/debasiishray-dxr-1785313530675-1-Alymdr-Roshni-HZDF5C.flac"
+    },
+    {
+      "song": "\u30af\u30e9\u30af\u30e9 - Kura Kura",
+      "artist": "Ado",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/gopiravindran-1785314816414-Ado_-_Kura_Kura.flac"
+    },
+    {
       "song": "peekaboo (con AzChike)",
       "artist": "Kendrick Lamar",
       "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/lankrest-1785303899882-Kendrick_Lamar_-_peekaboo.flac"
