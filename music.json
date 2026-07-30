@@ -1,6 +1,16 @@
 {
   "items": [
     {
+      "song": "Tujhe Bhula Diya",
+      "artist": "Mohit Chauhan, Shekhar Ravjiani, Shruti Pathak, Vishal-Shekhar",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/utubekbentertainment-cloud-1785395286371-Tujhe_Bhula_Diya_-_Vishal-Shekhar__Mohit_Chauhan__Shekhar_Ravjiani__Shruti_Pathak.flac"
+    },
+    {
+      "song": "Ennai Konjam",
+      "artist": "Harris Jayaraj",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/roshangeorge575-star-1785394651883-02_-_Ennai_Konjum.flac"
+    },
+    {
       "song": "Theeyae Theeyae",
       "artist": "Harris Jayaraj",
       "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/roshangeorge575-star-1785380918445-03_-_Theeyae_Theeyae.flac"
