@@ -1,6 +1,426 @@
 {
   "items": [
     {
+      "song": "Yedho Ondru Ennai",
+      "artist": "Yuvan Shankar Raja, Na. Muthukumar",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/vadamvalipremikal-collab-1785519147638-Paiyaa_-_Yedho_Ondru_Ennai.flac"
+    },
+    {
+      "song": "Janice STFU",
+      "artist": "Drake",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/kenpachigrande-1785523576643-janice-stfu.flac"
+    },
+    {
+      "song": "Death Do Us Part",
+      "artist": "Fridayy, Mariah The Scientist",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/kezino-me-1785521975847-ep-5-death-do-us-part-the-after-party.flac"
+    },
+    {
+      "song": "Reclusive",
+      "artist": "Elmiene",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/kezino-me-1785521695460-reclusive-official-video.flac"
+    },
+    {
+      "song": "Leave Me Alone",
+      "artist": "Chris Brown",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/kenpachigrande-1785520553811-leave-me-alone-audio.flac"
+    },
+    {
+      "song": "Watching Us",
+      "artist": "Wale, Leon Thomas",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/kenpachigrande-1785520607453-watching-us.flac"
+    },
+    {
+      "song": "COCONUT (cracked version)",
+      "artist": "SAILORR, Eem Triplin",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/kenpachigrande-1785520132279-coconut-cracked-version.flac"
+    },
+    {
+      "song": "2 Hard 4 The Radio",
+      "artist": "Drake",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/kenpachigrande-1785524073994-2-hard-4-the-radio.flac"
+    },
+    {
+      "song": "Taste",
+      "artist": "Coco Jones",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/kezino-me-1785521358877-taste.flac"
+    },
+    {
+      "song": "Love",
+      "artist": "Burna Boy",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/kenpachigrande-1785521183456-love.flac"
+    },
+    {
+      "song": "Spend Dat",
+      "artist": "Yung Miami",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/kenpachigrande-1785523889052-spend-dat.flac"
+    },
+    {
+      "song": "House Call",
+      "artist": "Buju Banton",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/kenpachigrande-1785524027526-house-call.flac"
+    },
+    {
+      "song": "What You Saying",
+      "artist": "Lil Uzi Vert",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/kenpachigrande-1785524125023-what-you-saying.flac"
+    },
+    {
+      "song": "Is It a Crime",
+      "artist": "Mariah the Scientist, Kali Uchis",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/kenpachigrande-1785515453815-is-it-a-crime.flac"
+    },
+    {
+      "song": "Right Back!",
+      "artist": "KARLEE GIRL",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/kenpachigrande-1785515499895-right-back.flac"
+    },
+    {
+      "song": "Heart Of A Woman (but you\u2019re drinking wine by the fire)",
+      "artist": "Summer Walker",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/kenpachigrande-1785515615204-heart-of-a-woman-but-youre-drinking-wine-by-the-fire.flac"
+    },
+    {
+      "song": "do what i say",
+      "artist": "kwn",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/kenpachigrande-1785520878098-do-what-i-say-official-video.flac"
+    },
+    {
+      "song": "Shoulda Never (feat. USHER)",
+      "artist": "Kehlani",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/kenpachigrande-1785520915378-shoulda-never-feat-usher.flac"
+    },
+    {
+      "song": "Take Me Thru Dere",
+      "artist": "Metro Boomin, Quavo, Breskii, YKNIECE",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/kenpachigrande-1785524261978-take-me-thru-dere.flac"
+    },
+    {
+      "song": "Arikil Nee",
+      "artist": "Karthik",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/vadamvalipremikal-collab-1785522467014-Flash_-_Arikil_Nee.flac"
+    },
+    {
+      "song": "good girl",
+      "artist": "kwn",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/kenpachigrande-1785520680256-good-girl-audio.flac"
+    },
+    {
+      "song": "Ran To Atlanta",
+      "artist": "Drake, Future, Molly Santana",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/kenpachigrande-1785523706281-ran-to-atlanta.flac"
+    },
+    {
+      "song": "Holy Blindfold",
+      "artist": "Chris Brown",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/kenpachigrande-1785519973694-holy-blindfold.flac"
+    },
+    {
+      "song": "Uyyaalalo Uyyaalalo",
+      "artist": "Harris Jayaraj, Kailash Kher, Sujatha Mohan",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/vadamvalipremikal-collab-1785518138501-Dhaam_Dhoom_-_Uyyaalalo_Uyyaalalo.flac"
+    },
+    {
+      "song": "Nin Hridaya Mounam (Female)",
+      "artist": "Gayatri",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/vadamvalipremikal-collab-1785522849853-Flash_-_Nin_Hridaya_Maunam__Female_.flac"
+    },
+    {
+      "song": "Pulari Pon Prave",
+      "artist": "Anuradha Sriram, Jakes Bijoy",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/vadamvalipremikal-collab-1785522722328-Flash_-_Pulari_Pon_Praave.flac"
+    },
+    {
+      "song": "It Depends (feat. Bryson Tiller)",
+      "artist": "Chris Brown",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/kenpachigrande-1785515567682-it-depends-feat-bryson-tiller.flac"
+    },
+    {
+      "song": "FEAR",
+      "artist": "NF",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/kenpachigrande-1785524217969-fear.flac"
+    },
+    {
+      "song": "LET 'EM KNOW",
+      "artist": "T.I.",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/kenpachigrande-1785523978550-let-em-know.flac"
+    },
+    {
+      "song": "FMT",
+      "artist": "Summer Walker",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/kezino-me-1785521560186-fmt.flac"
+    },
+    {
+      "song": "100",
+      "artist": "Ella Mai",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/kenpachigrande-1785520770473-100-official-music-video.flac"
+    },
+    {
+      "song": "Gimme Dat",
+      "artist": "Ayra Starr, Wizkid",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/kenpachigrande-1785521147961-gimme-dat.flac"
+    },
+    {
+      "song": "Baby",
+      "artist": "Summer Walker, Chris Brown",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/kezino-me-1785521511038-baby-feat-chris-brown.flac"
+    },
+    {
+      "song": "Shabang",
+      "artist": "Drake",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/kenpachigrande-1785523833882-shabang.flac"
+    },
+    {
+      "song": "There Goes My Heart",
+      "artist": "Ella Mai",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/kezino-me-1785521805849-there-goes-my-heart-official-visualizer.flac"
+    },
+    {
+      "song": "Talk To Me Nuh",
+      "artist": "Shenseea, Vybz Kartel, Rvssian",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/kezino-me-1785522070421-talk-to-me-nuh.flac"
+    },
+    {
+      "song": "Dead Fresh",
+      "artist": "Lil Baby",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/kenpachigrande-1785523667369-dead-fresh-visualizer.flac"
+    },
+    {
+      "song": "Pudhu Pudhu",
+      "artist": "Harris Jayaraj, Benny Dayal, Suchitra, Mizta G (Guna)",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/vadamvalipremikal-collab-1785518178355-Dhaam_Dhoom_-_Pudhu_Pudhu.flac"
+    },
+    {
+      "song": "My Muse",
+      "artist": "Leon Thomas",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/kezino-me-1785521773699-my-muse.flac"
+    },
+    {
+      "song": "What You Is",
+      "artist": "YoungBoy Never Broke Again, Mellow Rackz",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/kenpachigrande-1785524313921-what-you-is.flac"
+    },
+    {
+      "song": "Offa Me (feat. Victoria Mon\u00e9t)",
+      "artist": "Davido",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/kenpachigrande-1785520951086-offa-me-official-video.flac"
+    },
+    {
+      "song": "Juju pt. 2 - A COLORS SHOW",
+      "artist": "Bryann",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/kenpachigrande-1785523358004-juju-pt-2---a-colors-show.flac"
+    },
+    {
+      "song": "MOTO",
+      "artist": "Lojay",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/kezino-me-1785521650403-moto.flac"
+    },
+    {
+      "song": "idea of love - A COLORS SHOW",
+      "artist": "kwn, COLORS",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/kezino-me-1785522035133-idea-of-love---a-colors-show.flac"
+    },
+    {
+      "song": "En Kadhal Solla",
+      "artist": "Yuvan Shankar Raja, Tanvi Shah, Na. Muthukumar",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/vadamvalipremikal-collab-1785518933552-Paiyaa_-_Enn_Kadhal_Solla.flac"
+    },
+    {
+      "song": "Minnal Kodiye",
+      "artist": "Smita Nishant",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/vadamvalipremikal-collab-1785522769049-Flash_-_Minnal_Kodiye.flac"
+    },
+    {
+      "song": "Pressha",
+      "artist": "Jill Scott",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/kezino-me-1785521622074-pressha.flac"
+    },
+    {
+      "song": "idea of love",
+      "artist": "kwn",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/kezino-me-1785521433929-idea-of-love.flac"
+    },
+    {
+      "song": "Pressure",
+      "artist": "Seyi Vibez",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/kenpachigrande-1785521077377-pressure.flac"
+    },
+    {
+      "song": "ON MY MIND.",
+      "artist": "YFN Lucci",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/kenpachigrande-1785523791271-on-my-mind.flac"
+    },
+    {
+      "song": "GO BABY",
+      "artist": "Justin Bieber",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/kenpachigrande-1785515364010-go-baby-audio.flac"
+    },
+    {
+      "song": "INDUSTRY MACHINE",
+      "artist": "ODUMODUBLVCK",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/kezino-me-1785521479098-industry-machine.flac"
+    },
+    {
+      "song": "ROOMS (feat. YoungBoy Never Broke Again & Chief Keef)",
+      "artist": "Mike WiLL Made-It",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/kenpachigrande-1785524171043-rooms-feat-youngboy-never-broke-again-chief-keef.flac"
+    },
+    {
+      "song": "nadaaniyan",
+      "artist": "Akshath",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/ankitmahto96-1785515253028-nadaaniyan_-_Akshath.flac"
+    },
+    {
+      "song": "Ghetto Love Story",
+      "artist": "BabyChiefDoit",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/kenpachigrande-1785523533429-ghetto-love-story.flac"
+    },
+    {
+      "song": "God Showing Out",
+      "artist": "Pastor Mike Jr.",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/kenpachigrande-1785520806921-god-showing-out.flac"
+    },
+    {
+      "song": "Love In The Middle",
+      "artist": "Kevin Ross",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/kenpachigrande-1785523425381-love-in-the-middle-official-lyric-video.flac"
+    },
+    {
+      "song": "Man On A Mission (feat. Wizkid)",
+      "artist": "Chris Brown",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/kenpachigrande-1785520841037-man-on-a-mission-audio-feat-wizkid.flac"
+    },
+    {
+      "song": "MOTION SICKNESS (feat. Zlatan)",
+      "artist": "ODUMODUBLVCK",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/kenpachigrande-1785515401282-motion-sickness-feat-zlatan.flac"
+    },
+    {
+      "song": "Suthudhe Suthudhe",
+      "artist": "Yuvan Shankar Raja, Karthik, Sunitha Sarathy, Na. Muthukumar",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/vadamvalipremikal-collab-1785518877702-Paiyaa_-_Suthudhe_Suthudhe.flac"
+    },
+    {
+      "song": "Ghetto Love Story",
+      "artist": "BabyChiefDoit",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/kenpachigrande-1785523493391-ghetto-love-story.flac"
+    },
+    {
+      "song": "Perfect For Me",
+      "artist": "Jamal Roberts",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/kezino-me-1785522173992-perfect-for-me.flac"
+    },
+    {
+      "song": "idea of love",
+      "artist": "kwn",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/kezino-me-1785522011884-idea-of-love---a-colors-show.flac"
+    },
+    {
+      "song": "Leavin",
+      "artist": "Rod Wave",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/kenpachigrande-1785524356509-leavin.flac"
+    },
+    {
+      "song": "Trade Places",
+      "artist": "Jack Harlow",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/kenpachigrande-1785520041324-trade-places.flac"
+    },
+    {
+      "song": "Out The Window",
+      "artist": "Kehlani",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/kenpachigrande-1785520517882-out-the-window.flac"
+    },
+    {
+      "song": "Type Dangerous",
+      "artist": "Mariah Carey",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/kenpachigrande-1785521113825-type-dangerous.flac"
+    },
+    {
+      "song": "Konnichiwa",
+      "artist": "Future",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/kenpachigrande-1785523620761-konnichiwa.flac"
+    },
+    {
+      "song": "Big Daddy",
+      "artist": "Tems",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/kenpachigrande-1785521038558-big-daddy-visualizer.flac"
+    },
+    {
+      "song": "Go Girl",
+      "artist": "Summer Walker, Latto, Doja Cat",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/kenpachigrande-1785520738738-go-girl-feat-latto-doja-cat.flac"
+    },
+    {
+      "song": "All That Matters",
+      "artist": "6LACK, Leon Thomas, AZ Chike",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/kenpachigrande-1785520991967-all-that-matters.flac"
+    },
+    {
+      "song": "Sacrifice",
+      "artist": "Mariah the Scientist",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/kenpachigrande-1785520647937-sacrifice-official-lyric-video.flac"
+    },
+    {
+      "song": "Nin Hridaya Mounam (Male)",
+      "artist": "Vineeth Sreenivasan",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/vadamvalipremikal-collab-1785522524421-Flash_-_Nin_Hridaya_Maunam__Female_.flac"
+    },
+    {
+      "song": "PAMI (feat. Wizkid, Adekunle Gold & Omah Lay)",
+      "artist": "Dj Tunez",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/kezino-me-1785521904969-pami-feat-wizkid-adekunle-gold-omah-lay.flac"
+    },
+    {
+      "song": "**CUDN\u2019T B ME**",
+      "artist": "Jessie Reyez",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/kezino-me-1785522108855-cudnt-b-me-lyric-video.flac"
+    },
+    {
+      "song": "HOW FAR (feat. Monochrome)",
+      "artist": "NO11, Ayjay bobo",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/kezino-me-1785521308149-how-far-feat-monochrome.flac"
+    },
+    {
+      "song": "Pressha",
+      "artist": "Jill Scott",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/kezino-me-1785521595925-pressha.flac"
+    },
+    {
+      "song": "miss u 2 (with Leon Thomas) (feat. Leon Thomas)",
+      "artist": "Ty Dolla $ign",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/kezino-me-1785521733763-miss-u-2-with-leon-thomas.flac"
+    },
+    {
+      "song": "Pudhu Pudhu",
+      "artist": "Harris Jayaraj, Benny Dayal, Suchitra, Mizta G (Guna)",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/vadamvalipremikal-collab-1785518061702-Dhaam_Dhoom_-_Pudhu_Pudhu.flac"
+    },
+    {
+      "song": "Might Just",
+      "artist": "Ella Mai",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/kezino-me-1785522140584-might-just-visualizer.flac"
+    },
+    {
+      "song": "Get Better",
+      "artist": "Zlatan, Fola",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/kezino-me-1785521393195-get-better.flac"
+    },
+    {
+      "song": "Adada Mazhaida",
+      "artist": "Yuvan Shankar Raja, Rahul Nambiar, Saindhavi, Na. Muthukumar",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/vadamvalipremikal-collab-1785518780904-Paiyaa_-_Adada_Mazhaida.flac"
+    },
+    {
+      "song": "Gates Flow 2 (She Don't Wanna)",
+      "artist": "Fredo Bang",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/kenpachigrande-1785523755027-gates-flow-2-she-dont-wanna.flac"
+    },
+    {
+      "song": "Angin Kencang",
+      "artist": "Noh Salleh",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/yojiuruha-1785518868529-Angin_Kencang_-_Noh_Salleh.flac"
+    },
+    {
       "song": "Raindance",
       "artist": "Dave, Tems",
       "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/kezino-me-1785513710723-raindance.flac"
