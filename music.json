@@ -1,6 +1,371 @@
 {
   "items": [
     {
+      "song": "Raindance",
+      "artist": "Dave, Tems",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/kezino-me-1785513710723-raindance.flac"
+    },
+    {
+      "song": "Diamond (I See the Glory) feat. Mara Justine (feat. Mara Justine)",
+      "artist": "Maverick City Music, Jordin Sparks, Dante Bowe",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/kenpachigrande-1785511288939-diamond-i-see-the-glory-feat-mara-justine-feat-mara-justine.flac"
+    },
+    {
+      "song": "usher in the spirit",
+      "artist": "Aaron Cole, Tenroc",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/kezino-me-1785513846800-usher-in-the-spirit.flac"
+    },
+    {
+      "song": "Safe (feat. Kehlani)",
+      "artist": "Cardi B",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/kezino-me-1785514140935-safe-feat-kehlani.flac"
+    },
+    {
+      "song": "Know Your Name (Live)",
+      "artist": "DOE",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/kezino-me-1785513536357-know-your-name-live.flac"
+    },
+    {
+      "song": "Angles",
+      "artist": "Ave Mujica",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/rizdik-1785510645045-02_-_Angles.flac"
+    },
+    {
+      "song": "IS IT LOVE",
+      "artist": "Tyla",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/kezino-me-1785514105611-is-it-love-official-music-video.flac"
+    },
+    {
+      "song": "The Light",
+      "artist": "Jor'Dan Armstrong",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/kenpachigrande-1785510005446-the-light.flac"
+    },
+    {
+      "song": "Live Breathe Fight",
+      "artist": "Tamela Mann",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/kenpachigrande-1785511241443-live-breathe-fight.flac"
+    },
+    {
+      "song": "prepare me",
+      "artist": "ANTHNY, Naomi Raine",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/kezino-me-1785514061484-prepare-me-official-audio.flac"
+    },
+    {
+      "song": "My Family",
+      "artist": "Jamie MacDonald",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/kenpachigrande-1785509563076-my-family-official-music-video.flac"
+    },
+    {
+      "song": "For The Moment",
+      "artist": "Chris Brown",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/kenpachigrande-1785514797327-for-the-moment.flac"
+    },
+    {
+      "song": "TV",
+      "artist": "Alex G",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/kiruhafall-1785507976639-TV_-_Alex_G.flac"
+    },
+    {
+      "song": "Sunday Morning",
+      "artist": "Tauren Wells, Pastor Mike Jr.",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/kenpachigrande-1785511491590-sunday-morning.flac"
+    },
+    {
+      "song": "What You Need",
+      "artist": "Tems",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/kezino-me-1785513633851-what-you-need.flac"
+    },
+    {
+      "song": "Tornado",
+      "artist": "Ayra Starr",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/kenpachigrande-1785514590788-tornado.flac"
+    },
+    {
+      "song": "Paparazzi",
+      "artist": "Shoday, FOLA",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/kenpachigrande-1785514912619-paparazzi.flac"
+    },
+    {
+      "song": "E CLEAR",
+      "artist": "CKay",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/kezino-me-1785514223518-e-clear.flac"
+    },
+    {
+      "song": "SPEED DEMON",
+      "artist": "Justin Bieber",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/kezino-me-1785514494216-speed-demon.flac"
+    },
+    {
+      "song": "RUN 2 U (Viral Version)",
+      "artist": "Hindrix Brown, Maverick City Music",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/kenpachigrande-1785509674425-run-2-u-viral-version.flac"
+    },
+    {
+      "song": "Sona Ke Jhumakawa",
+      "artist": "Neelkamal Singh & Tanu Shrivastav",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/ankitmahto96-1785508970258-Sona_Ke_Jhumakawa__Lossless_.flac"
+    },
+    {
+      "song": "His Favorite",
+      "artist": "Koryn Hawthorne",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/kenpachigrande-1785509139959-his-favorite-official-lyric-video.flac"
+    },
+    {
+      "song": "Breakthrough",
+      "artist": "Chibike",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/kenpachigrande-1785509288740-breakthrough.flac"
+    },
+    {
+      "song": "Renegade (feat. Eminem)",
+      "artist": "JA\u0178-Z",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/kenpachigrande-1785506502213-renegade-feat-eminem.flac"
+    },
+    {
+      "song": "Oh My Soul (Psalm 103)",
+      "artist": "TobyMac, CeCe Winans",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/kenpachigrande-1785509924285-oh-my-soul-psalm-103-official-audio.flac"
+    },
+    {
+      "song": "Humraazi (Original Score)",
+      "artist": "Wajhi Farooki",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/ankitmahto96-1785508816733-Humraazi__Original_Score___Lossless_.flac"
+    },
+    {
+      "song": "Residuals",
+      "artist": "Chris Brown",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/kezino-me-1785513587763-residuals-official-video.flac"
+    },
+    {
+      "song": "Stay Here",
+      "artist": "Bri Babineaux",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/kenpachigrande-1785509177433-stay-here.flac"
+    },
+    {
+      "song": "A Couple Minutes (A COLORS SHOW)",
+      "artist": "Olivia Dean, COLORS",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/kenpachigrande-1785514970689-a-couple-minutes-a-colors-show.flac"
+    },
+    {
+      "song": "treat u right",
+      "artist": "FOLA & Ayra Starr",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/kezino-me-1785514355827-treat-u-right.flac"
+    },
+    {
+      "song": "Hello God (Radio Edit) (feat. Wyclef Jean)",
+      "artist": "Tamela Mann",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/kenpachigrande-1785511795619-hello-god-radio-edit-feat-wyclef-jean.flac"
+    },
+    {
+      "song": "Colorado",
+      "artist": "Johnny Drille, Ayra Starr, Young Jonn",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/kenpachigrande-1785514868237-colorado.flac"
+    },
+    {
+      "song": "Redeemed (Live)",
+      "artist": "Roosevelt Stewart",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/kenpachigrande-1785509527699-redeemed-live.flac"
+    },
+    {
+      "song": "Love Me Not",
+      "artist": "Ravyn Lenae",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/kezino-me-1785514307230-love-me-not.flac"
+    },
+    {
+      "song": "Open the Eyes (Praise You)",
+      "artist": "Madison Watkins",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/kezino-me-1785513494786-open-the-eyes-praise-you-lyric-video.flac"
+    },
+    {
+      "song": "Through It All",
+      "artist": "Mervin Mayo",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/kenpachigrande-1785511679702-through-it-all.flac"
+    },
+    {
+      "song": "Little Things",
+      "artist": "Ella Mai",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/kenpachigrande-1785515086295-little-things.flac"
+    },
+    {
+      "song": "New Normal (Live)",
+      "artist": "Jonathan McReynolds",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/kenpachigrande-1785511589382-new-normal-official-live-performance.flac"
+    },
+    {
+      "song": "Folded",
+      "artist": "Kehlani",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/kezino-me-1785513808444-folded.flac"
+    },
+    {
+      "song": "Love Me Right",
+      "artist": "Amber Mark",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/kenpachigrande-1785506446194-love-me-right-official-video.flac"
+    },
+    {
+      "song": "Love Me",
+      "artist": "JMSN",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/kezino-me-1785513749252-love-me.flac"
+    },
+    {
+      "song": "Tweak",
+      "artist": "GIRLSET",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/kenpachigrande-1785514752985-tweak.flac"
+    },
+    {
+      "song": "Renegade (feat. Eminem)",
+      "artist": "JA\u0178-Z",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/kenpachigrande-1785506528762-renegade-feat-eminem.flac"
+    },
+    {
+      "song": "Jara",
+      "artist": "Khaid",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/kenpachigrande-1785509042569-jara.flac"
+    },
+    {
+      "song": "Earrings",
+      "artist": "Malcolm Todd",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/tfitsparth-1785509606979-Earrings_-_Malcolm_Todd.flac"
+    },
+    {
+      "song": "Regret",
+      "artist": "Navaan Sandhu, Gurinder Gill, Daaku",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/ankitsehdev5-1785508295053-Navaan_Sandhu_-_Regret.flac"
+    },
+    {
+      "song": "Sacrifice",
+      "artist": "Black Sherif",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/kenpachigrande-1785514834798-sacrifice-official-visualizer.flac"
+    },
+    {
+      "song": "Sheesha (Aakhya Mai Aakh Ghali Jo Bairan)",
+      "artist": "Mitta Ror, Swara Verma",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/tfitsparth-1785509751876-Sheesha_-_Aakhya_Mai_Aakh_Ghali_Jo_Bairan_-_Mitta_Ror__Swara_Verma.flac"
+    },
+    {
+      "song": "DYNAMITE",
+      "artist": "Tyla, Wizkid",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/kezino-me-1785514408814-dynamite.flac"
+    },
+    {
+      "song": "What You Need - A COLORS SHOW",
+      "artist": "Tems, COLORS",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/kezino-me-1785513659653-what-you-need.flac"
+    },
+    {
+      "song": "Turn It Around",
+      "artist": "Pastor Mike Jr.",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/kenpachigrande-1785510258245-pastor-mike-jr---turn-it-around-official-audio.flac"
+    },
+    {
+      "song": "After Hours",
+      "artist": "Kehlani",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/kenpachigrande-1785515020971-after-hours.flac"
+    },
+    {
+      "song": "Heal",
+      "artist": "Jamal Roberts",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/kenpachigrande-1785509881978-heal.flac"
+    },
+    {
+      "song": "What A Friend We Have In Jesus",
+      "artist": "CeCe Winans",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/kenpachigrande-1785509361862-what-a-friend-we-have-in-jesus.flac"
+    },
+    {
+      "song": "Do It Again",
+      "artist": "Kirk Franklin",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/kenpachigrande-1785509959875-do-it-again.flac"
+    },
+    {
+      "song": "Leak It",
+      "artist": "FLO",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/kenpachigrande-1785514625820-leak-it-official-video.flac"
+    },
+    {
+      "song": "Energy",
+      "artist": "Tiwa Savage, Wande Coal, & MAVO",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/kenpachigrande-1785515146099-energy.flac"
+    },
+    {
+      "song": "Double (Live)",
+      "artist": "William Murphy",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/kenpachigrande-1785509610446-double-live-performance-video.flac"
+    },
+    {
+      "song": "The Hand That Keeps Holding Me",
+      "artist": "Tasha Cobbs Leonard",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/kenpachigrande-1785509720790-the-hand-that-keeps-holding-me-official-music-video.flac"
+    },
+    {
+      "song": "I Need Jesus",
+      "artist": "Zacardi Cortez",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/kenpachigrande-1785511641714-i-need-jesus.flac"
+    },
+    {
+      "song": "He's On The Way",
+      "artist": "Tasha Page-Lockhart",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/kenpachigrande-1785511384046-hes-on-the-way.flac"
+    },
+    {
+      "song": "Bless His Name",
+      "artist": "PJ Morton",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/kenpachigrande-1785511760337-bless-his-name.flac"
+    },
+    {
+      "song": "Ruposh (Original Score)",
+      "artist": "Wajhi Farooki",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/ankitmahto96-1785508603211-Ruposh__Original_Score___Lossless_.flac"
+    },
+    {
+      "song": "Sensational (feat. Davido & Lojay)",
+      "artist": "Chris Brown",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/kezino-me-1785513983645-sensational-feat-davido-lojay.flac"
+    },
+    {
+      "song": "Who Knows",
+      "artist": "Daniel Caesar",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/kezino-me-1785513939100-who-knows.flac"
+    },
+    {
+      "song": "Blessings",
+      "artist": "Yolanda Adams Lifestyles",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/kenpachigrande-1785511862692-blessings-official-audio.flac"
+    },
+    {
+      "song": "Don't Stop 'Til You Get Enough",
+      "artist": "Michael Jackson",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/kenpachigrande-1785514662565-dont-stop-til-you-get-enough.flac"
+    },
+    {
+      "song": "Burning Blue",
+      "artist": "Mariah the Scientist",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/kezino-me-1785513897829-burning-blue.flac"
+    },
+    {
+      "song": "Love Don't Cost A Dime",
+      "artist": "Magixx",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/kenpachigrande-1785506286762-love-dont-cost-a-dime.flac"
+    },
+    {
+      "song": "2 Phones",
+      "artist": "Kevin Gates",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/kenpachigrande-1785506399407-2-phones.flac"
+    },
+    {
+      "song": "Gone, Gone, Gone",
+      "artist": "Phillip Phillips",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/kenpachigrande-1785506351894-gone-gone-gone.flac"
+    },
+    {
+      "song": "Tweak",
+      "artist": "GIRLSET",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/kenpachigrande-1785514730863-tweak.flac"
+    },
+    {
+      "song": "Let The Church Sing",
+      "artist": "Tauren Wells",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/kenpachigrande-1785509455997-let-the-church-sing-official-lyric-video.flac"
+    },
+    {
       "song": "Unse Jaake Kehdo",
       "artist": "Justh",
       "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/spaulll-1785492190564-Unse_Jaake_Kehdo_-_Justh.flac"
