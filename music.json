@@ -1,6 +1,46 @@
 {
   "items": [
     {
+      "song": "Unse Jaake Kehdo",
+      "artist": "Justh",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/spaulll-1785492190564-Unse_Jaake_Kehdo_-_Justh.flac"
+    },
+    {
+      "song": "Varavelkkumo",
+      "artist": "Ilaiyaraaja, Madhu Balakrishnan, Jyotsna Radhakrishnan",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/vadamvalipremikal-collab-1785491492988-03_-_Madhu_Balakrishnan___Jyotsna_-_Varavelkkumo.flac"
+    },
+    {
+      "song": "Vascodagama (Duet Version)",
+      "artist": "Rahul Raj, Afsal, Rimi Tomy",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/vadamvalipremikal-collab-1785492055216-Chotta_Mumbai_-_Vascodagama.flac"
+    },
+    {
+      "song": "Azhiyilae",
+      "artist": "Harris Jayaraj, Haricharan",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/vadamvalipremikal-collab-1785488968652-Dhaam_Dhoom_-_Azhiyile.flac"
+    },
+    {
+      "song": "Yaaro Manathile",
+      "artist": "Harris Jayaraj, Bombay Jayashri, Krish",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/vadamvalipremikal-collab-1785488899369-Dhaam_Dhoom_-_Sakhiye.flac"
+    },
+    {
+      "song": "Chettikulangara (Version, 1)",
+      "artist": "M.K. Arjunan, Rahul Raj, M.G. Sreekumar, Sreekumaran Thampi",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/vadamvalipremikal-collab-1785495693621-Chotta_Mumbai_-_Chettikulangara__Tell_Me_Now_.flac"
+    },
+    {
+      "song": "Thala (Male Version)",
+      "artist": "Rahul Raj, Shankar Mahadevan",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/vadamvalipremikal-collab-1785492621154-Chotta_Mumbai_-_Adithadakal.flac"
+    },
+    {
+      "song": "Chor",
+      "artist": "Justh",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/spaulll-1785492430520-Chor_-_Justh.flac"
+    },
+    {
       "song": "Lag Ja Gale Se Phir",
       "artist": "Lata Mangeshkar",
       "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/hakishi-lag_ja_gale_se_phir.flac"
