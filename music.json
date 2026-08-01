@@ -1,6 +1,376 @@
 {
   "items": [
     {
+      "song": "In My Bed (feat. Wale)",
+      "artist": "Rotimi",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/kenpachigrande-1785553718967-in-my-bed-feat-wale.flac"
+    },
+    {
+      "song": "Animus",
+      "artist": "Swans",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/kadynz-1785561577024-Animus.flac"
+    },
+    {
+      "song": "Wahala Dey",
+      "artist": "Ycee",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/kenpachigrande-1785553403805-wahala-dey.flac"
+    },
+    {
+      "song": "Tonight",
+      "artist": "Burna Boy",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/kenpachigrande-1785548463917-tonight.flac"
+    },
+    {
+      "song": "Surrogate Drone",
+      "artist": "Swans",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/kadynz-1785561577038-Surrogate_Drone.flac"
+    },
+    {
+      "song": "Deja Vu",
+      "artist": "Burna Boy",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/kenpachigrande-1785553028529-deja-vu.flac"
+    },
+    {
+      "song": "\u5e55\u3092\u4e0b\u308d\u305d\u3046\u3001\u30d1\u30ec\u30fc\u30c9\u3078 - Maku-wo orosou, PARADE-he (con Kotonoha Akane&Aoi)",
+      "artist": "Umicha",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/joxquin-1785557794764-Umicha_Maku_wo_orosou__PARADE_he_feat_Kotonoha_Akane_Aoi.flac"
+    },
+    {
+      "song": "I Was A Prisoner In Your Skull",
+      "artist": "Swans",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/kadynz-1785561577014-I_Was_A_Prisoner_In_Your_Skull.flac"
+    },
+    {
+      "song": "Shiddat Title Track",
+      "artist": "Manan Bhardwaj",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/iamdeepjyoti95-max-1785561859338-Shiddat_Title_Track_-_Manan_Bhardwaj.flac"
+    },
+    {
+      "song": "Yum-Yab Killers",
+      "artist": "Swans",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/kadynz-1785561577017-Yum-Yab_Killers.flac"
+    },
+    {
+      "song": "Empathy",
+      "artist": "Swans",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/kadynz-1785561577031-Empathy.flac"
+    },
+    {
+      "song": "The Final Sacrifice",
+      "artist": "Swans",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/kadynz-1785561577036-The_Final_Sacrifice.flac"
+    },
+    {
+      "song": "KATIGORI",
+      "artist": "Oxlade",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/kenpachigrande-1785549580252-katigori.flac"
+    },
+    {
+      "song": "PRAY",
+      "artist": "BNXN",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/kenpachigrande-1785554719143-pray.flac"
+    },
+    {
+      "song": "Red Velvet Corridor",
+      "artist": "Swans",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/kadynz-1785561577013-Red_Velvet_Corridor.flac"
+    },
+    {
+      "song": "Where Does a Body End?",
+      "artist": "Swans",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/kadynz-1785558434207-00_-_13_-_Where_Does_A_Body_End.flac"
+    },
+    {
+      "song": "Kill Man",
+      "artist": "Terri",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/kenpachigrande-1785549061911-kill-man.flac"
+    },
+    {
+      "song": "Volcano",
+      "artist": "Swans",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/kadynz-1785561577019-Volcano.flac"
+    },
+    {
+      "song": "Like to Party",
+      "artist": "Burna Boy",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/kenpachigrande-1785552761204-like-to-party.flac"
+    },
+    {
+      "song": "Minus Something",
+      "artist": "Swans",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/kadynz-1785561577030-Minus_Something.flac"
+    },
+    {
+      "song": "In My Maserati",
+      "artist": "Olakira",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/kenpachigrande-1785549340556-in-my-maserati.flac"
+    },
+    {
+      "song": "Red Velvet Wound",
+      "artist": "Swans",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/kadynz-1785561577025-Red_Velvet_Wound.flac"
+    },
+    {
+      "song": "Worldwide",
+      "artist": "Asake",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/kenpachigrande-1785552880305-worldwide.flac"
+    },
+    {
+      "song": "En Peru Padaiyappa",
+      "artist": "A. R. Rahman",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/albotest-1785553551279-En_pearu_Padaiyappa.flac"
+    },
+    {
+      "song": "I Love You This Much",
+      "artist": "Swans",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/kadynz-1785561577032-I_Love_You_This_Much.flac"
+    },
+    {
+      "song": "Secret Friends",
+      "artist": "Swans",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/kadynz-1785561577035-Secret_Friends.flac"
+    },
+    {
+      "song": "Megharagam Nerukil F",
+      "artist": "K.S.Chithra",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/vadamvalipremikal-collab-1785562713224-Kakkakkuyil_-_Mekharagam_Nerukil__Female_.flac"
+    },
+    {
+      "song": "How They Suffer",
+      "artist": "Swans",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/kadynz-1785561577023-How_They_Suffer.flac"
+    },
+    {
+      "song": "Mellothumb",
+      "artist": "Swans",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/kadynz-1785561577020-Mellothumb.flac"
+    },
+    {
+      "song": "In",
+      "artist": "Swans",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/kadynz-1785554874589-00_-_01_-_In.flac"
+    },
+    {
+      "song": "All Lined Up",
+      "artist": "Swans",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/kadynz-1785561577021-All_Lined_Up.flac"
+    },
+    {
+      "song": "My Buried Child",
+      "artist": "Swans",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/kadynz-1785555279378-00_-_08_-_My_Buried_Child.flac"
+    },
+    {
+      "song": "CHOPLIFE (feat. Patoranking)",
+      "artist": "King Promise",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/kenpachigrande-1785548320140-choplife-feat-patoranking.flac"
+    },
+    {
+      "song": "Fan's Lament",
+      "artist": "Swans",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/kadynz-1785561577034-Fans_Lament.flac"
+    },
+    {
+      "song": "Her Mouth Is Filled With Honey",
+      "artist": "Swans",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/kadynz-1785561577027-Her_Mouth_Is_Filled_With_Honey.flac"
+    },
+    {
+      "song": "Para",
+      "artist": "L.A.X",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/kenpachigrande-1785549228392-para.flac"
+    },
+    {
+      "song": "The Sound",
+      "artist": "Swans",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/kadynz-1785561577026-The_Sound.flac"
+    },
+    {
+      "song": "YRP",
+      "artist": "Swans",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/kadynz-1785561577033-YRP.flac"
+    },
+    {
+      "song": "Gidi Girl",
+      "artist": "Wizkid",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/kenpachigrande-1785548184941-gidi-girl.flac"
+    },
+    {
+      "song": "Oh My",
+      "artist": "Fireboy DML",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/kenpachigrande-1785547486867-oh-my.flac"
+    },
+    {
+      "song": "Unnikanna Vayo",
+      "artist": "Kalyani Menon",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/vadamvalipremikal-collab-1785562650504-Kakkakkuyil_-_Unnikkanna_Vaayo.flac"
+    },
+    {
+      "song": "Surrogate 2",
+      "artist": "Swans",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/kadynz-1785561577022-Surrogate_2.flac"
+    },
+    {
+      "song": "Poongatre Poongatre",
+      "artist": "Yuvan Shankar Raja, Benny Dayal, Na. Muthukumar",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/vadamvalipremikal-collab-1785556415510-Poongatre_Poongatre_-_Yuvan_Shankar_Raja.flac"
+    },
+    {
+      "song": "Bloodsection",
+      "artist": "Swans",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/kadynz-1785561577028-Bloodsection.flac"
+    },
+    {
+      "song": "Cold",
+      "artist": "Crossfade",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/kenpachigrande-1785548391497-cold.flac"
+    },
+    {
+      "song": "Champion Sound",
+      "artist": "Davido, Focalistic",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/kenpachigrande-1785547368221-champion-sound.flac"
+    },
+    {
+      "song": "Miss You Bad",
+      "artist": "Mr Eazi, Burna Boy",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/kenpachigrande-1785548800045-miss-you-bad.flac"
+    },
+    {
+      "song": "Die For You",
+      "artist": "Joji",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/albotest-1785554242294-03._Joji_-_Die_For_You__Explicit_.flac"
+    },
+    {
+      "song": "I Am the Sun",
+      "artist": "Swans",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/kadynz-1785554912270-00_-_02_-_I_Am_The_Sun.flac"
+    },
+    {
+      "song": "Blood Promise",
+      "artist": "Swans",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/kadynz-1785555138373-00_-_06_-_Blood_Promise.flac"
+    },
+    {
+      "song": "The Beautiful Days",
+      "artist": "Swans",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/kadynz-1785561577018-The_Beautiful_Days.flac"
+    },
+    {
+      "song": "Mother_Father",
+      "artist": "Swans",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/kadynz-1785555096594-00_-_05_-_MotherFather.flac"
+    },
+    {
+      "song": "Live Through Me",
+      "artist": "Swans",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/kadynz-1785561577016-Live_Through_Me.flac"
+    },
+    {
+      "song": "Back To You",
+      "artist": "Selena Gomez",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/albotest-1785554113185-Selena_Gomez_-_Back_To_You.flac"
+    },
+    {
+      "song": "Aararum Kandillenno",
+      "artist": "M.G.Sreekumar & Sujatha",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/vadamvalipremikal-collab-1785562920932-Kakkakkuyil_-_Aararum_Kandillenno.flac"
+    },
+    {
+      "song": "Unnikanna Vayo (From Kakkakuyil )",
+      "artist": "Kalyani Menon",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/vadamvalipremikal-collab-1785562586335-Kakkakkuyil_-_Unnikkanna_Vaayo.flac"
+    },
+    {
+      "song": "Dangote",
+      "artist": "Burna Boy",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/kenpachigrande-1785548935195-dangote.flac"
+    },
+    {
+      "song": "Barbie Girl",
+      "artist": "Aqua",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/kakashi879-1785562583054-Aqua_-_Barbie_Girl.flac"
+    },
+    {
+      "song": "Hypogirl",
+      "artist": "Swans",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/kadynz-1785561577029-Hypogirl.flac"
+    },
+    {
+      "song": "Celebrity Lifestyle",
+      "artist": "Swans",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/kadynz-1785555059114-00_-_04_-_Celebrity_Lifestyle.flac"
+    },
+    {
+      "song": "Mother's Milk",
+      "artist": "Swans",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/kadynz-1785558407945-00_-_12_-_Mother_s_Milk.flac"
+    },
+    {
+      "song": "Bad Decisions & Foreplay",
+      "artist": "Magixx",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/kenpachigrande-1785554989979-bad-decisions-foreplay.flac"
+    },
+    {
+      "song": "The Great Annihilator",
+      "artist": "Swans",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/kadynz-1785558493529-00_-_15_-_The_Great_Annihilator.flac"
+    },
+    {
+      "song": "Be There Still",
+      "artist": "Davido",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/kenpachigrande-1785552612223-be-there-still.flac"
+    },
+    {
+      "song": "Gbese",
+      "artist": "Majeeed, Tiwa Savage",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/kenpachigrande-1785554901427-gbese.flac"
+    },
+    {
+      "song": "Party Next Door",
+      "artist": "Dangbana Republik, Bella Shmurda",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/kenpachigrande-1785552944748-party-next-door.flac"
+    },
+    {
+      "song": "Bad (feat. Tiara Thomas)",
+      "artist": "Wale",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/kenpachigrande-1785553318452-bad-feat-tiara-thomas.flac"
+    },
+    {
+      "song": "Helpless Child",
+      "artist": "Swans",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/kadynz-1785561577015-Helpless_Child.flac"
+    },
+    {
+      "song": "YRP 2",
+      "artist": "Swans",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/kadynz-1785561577037-YRP_2.flac"
+    },
+    {
+      "song": "Tonight",
+      "artist": "Burna Boy",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/kenpachigrande-1785548535108-tonight.flac"
+    },
+    {
+      "song": "The Kick (feat. Don Jazzy)",
+      "artist": "Wande Coal",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/kenpachigrande-1785548729354-the-kick-feat-don-jazzy.flac"
+    },
+    {
+      "song": "Toast",
+      "artist": "Original Koffee",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/kenpachigrande-1785553634075-toast.flac"
+    },
+    {
+      "song": "Alcohol the Seed",
+      "artist": "Swans",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/kadynz-1785558334785-00_-_10_-_Alcohol_The_Seed.flac"
+    },
+    {
+      "song": "Ole",
+      "artist": "Qing Madi, BNXN",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/kenpachigrande-1785553170202-ole.flac"
+    },
+    {
       "song": "Steve French (feat. Steve Aoki)",
       "artist": "Flux Pavilion",
       "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/faviancesareo15-rgb-1785535011990-Steve_French__feat._Steve_Aoki__-_Flux_Pavilion.flac"
