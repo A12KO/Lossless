@@ -1,6 +1,36 @@
 {
   "items": [
     {
+      "song": "Steve French (feat. Steve Aoki)",
+      "artist": "Flux Pavilion",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/faviancesareo15-rgb-1785535011990-Steve_French__feat._Steve_Aoki__-_Flux_Pavilion.flac"
+    },
+    {
+      "song": "Spell Bound",
+      "artist": "Silent Code",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/faviancesareo15-rgb-1785535150388-Spell_Bound_-_Silent_Code.flac"
+    },
+    {
+      "song": "MJ (Remix)",
+      "artist": "Bad Boy Timz",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/kenpachigrande-1785546940023-mj-remix.flac"
+    },
+    {
+      "song": "Call",
+      "artist": "Joeboy",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/kenpachigrande-1785547071816-call.flac"
+    },
+    {
+      "song": "Mj (Remix)",
+      "artist": "bad boy timz",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/kenpachigrande-1785546996640-mj-remix.flac"
+    },
+    {
+      "song": "Shutdown",
+      "artist": "Spyro, Phyno",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/kenpachigrande-1785547235846-shutdown.flac"
+    },
+    {
       "song": "Bruce Wayne",
       "artist": "YoungBoy Never Broke Again",
       "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/kezino-me-1785527042255-bruce-wayne.flac"
